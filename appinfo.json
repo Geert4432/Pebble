@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "geert.vanhoorebeek@gmail.com",
+    "longName": "Test02",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Test02",
+    "uuid": "70d4dc29-931c-4f62-b9f6-13f6f9323192",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
